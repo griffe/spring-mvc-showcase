@@ -9,6 +9,8 @@ public class JavaBean {
 	private String param3;
 	
 	private static final String TEST = "test";
+	
+	private static final String TEST1 = "mulpa";
 
 	public String getParam1() {
 		return param1;
