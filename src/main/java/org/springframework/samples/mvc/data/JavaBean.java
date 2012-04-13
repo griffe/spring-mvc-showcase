@@ -7,8 +7,6 @@ public class JavaBean {
 	private String param2;
 	
 	private String param3;
-	
-	private final static String test = "dupa";
 
 	public String getParam1() {
 		return param1;
